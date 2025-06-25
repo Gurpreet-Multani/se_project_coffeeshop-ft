@@ -13,4 +13,4 @@ This is the second project of the fulltime Software Engineering program at Tripl
 
 ## Plan on improving the project
 
-Add your ideas here :)
+A quick idea maybe I could update the background with better images.add more animation to the background with index to make background appear like a gif partially.
